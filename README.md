@@ -1,2 +1,1 @@
-# fun-gcp
-Playing with GCP
+Playing with Google Cloud Platform
